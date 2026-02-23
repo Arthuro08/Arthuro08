@@ -10,7 +10,7 @@
 
 I’m passionate about technology and constantly improving my skills through academic projects, competitions, and personal development.  
 
-I have experience building practical projects such as a Unity-based game, a Bluetooth-controlled Arduino robot, and an ATM system prototype developed in C++.  
+I have experience building practical projects such as a Unity-based game, a Bluetooth-controlled Arduino robot, and an ATM system prototype developed in C#.  
 
 I enjoy solving problems, working in teams, and continuously learning new technologies.
 
@@ -21,6 +21,7 @@ I enjoy solving problems, working in teams, and continuously learning new techno
 ### 💻 Programming
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Front-end
