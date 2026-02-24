@@ -8,9 +8,8 @@
 
 ## 🧠 About Me
 
-focused on building practical and problem-solving oriented projects.
-
-I enjoy solving problems, working in teams, and continuously learning new technologies.
+Focused on building practical, real-world solutions.
+I enjoy teamwork, challenges, and continuous learning.
 
 ---
 
