@@ -2,7 +2,7 @@
 
 🎓 Information Systems undergraduate student  
 💻 Technical background in Systems Development  
-🚀 Seeking internship opportunities in IT (Fullstack Development & Data Analysis)
+🚀 Fullstack Development & Data Analysis
 
 ---
 
