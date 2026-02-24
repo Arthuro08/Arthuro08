@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arthur
 
-🎓 Information Systems student  
+🎓 Information Systems undergraduate student  
 💻 Technical background in Systems Development  
 🚀 Seeking internship opportunities in IT (Fullstack Development & Data Analysis)
 
@@ -8,9 +8,7 @@
 
 ## 🧠 About Me
 
-I’m passionate about technology and constantly improving my skills through academic projects, competitions, and personal development.  
-
-I have experience building practical projects such as a Unity-based game, a Bluetooth-controlled Arduino robot, and an ATM system prototype developed in C#.  
+focused on building practical and problem-solving oriented projects.
 
 I enjoy solving problems, working in teams, and continuously learning new technologies.
 
