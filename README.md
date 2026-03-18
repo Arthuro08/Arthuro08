@@ -39,10 +39,10 @@ I enjoy teamwork, challenges, and continuous learning.
 ## 🏆 Achievements, Certificates and Badges
 
 🥈 Silver Medal – Hackathon 2024  
-🏅 ONDA – National Applications Olympiad (3rd phase – 2023)
-📃 IFCiência - Presentation Certificate of the project "Bluetooth robot with ultrasonic sensor and LED indicator"
-🎖️ Cisco Badge - Operational Systems Basics
-🎖️ Cisco Badge - Create Digital Content, Communicate and Collaborate Digital Online
+🏅 ONDA – National Applications Olympiad (3rd phase – 2023)  
+📃 IFCiência - Presentation Certificate of the project "Bluetooth robot with ultrasonic sensor and LED indicator"  
+🎖️ Cisco Badge - Operational Systems Basics  
+🎖️ Cisco Badge - Create Digital Content, Communicate and Collaborate Digital Online  
 
 ---
 
