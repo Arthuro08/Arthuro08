@@ -38,9 +38,10 @@ I enjoy teamwork, challenges, and continuous learning.
 
 ## 🏆 Achievements, Certificates and Badges
 
-🥈 Silver Medal – Hackathon 2024  
-🏅 ONDA – National Applications Olympiad (3rd phase – 2023)  
+🥈 Hackathon ETEC Taboão da Serra 2024 - Silver Medal 
+🏅 ONDA – Olimpíada Nacional de Aplicativos (3rd phase – 2023)  
 📃 IFCiência - Presentation Certificate of the project "Bluetooth robot with ultrasonic sensor and LED indicator"  
+📃 Bradesco Foundation - "Modeling Data" Course Certificate  
 🎖️ Cisco Badge - Operational Systems Basics  
 🎖️ Cisco Badge - Create Digital Content, Communicate and Collaborate Digital Online  
 
