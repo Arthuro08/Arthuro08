@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-Focused on building practical, real-world solutions.
+19 years. Focused on building practical, real-world solutions.
 I enjoy teamwork, challenges, and continuous learning.
 
 ---
