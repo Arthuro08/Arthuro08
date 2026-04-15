@@ -15,10 +15,9 @@ I enjoy teamwork, challenges, and continuous learning.
 
 ## My Stats  
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Arthuro08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Arthuro08&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arthuro08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
