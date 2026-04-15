@@ -3,7 +3,7 @@
 🎓 Information Systems undergraduate student  
 💻 Technical background in Systems Development  
 🚀 Fullstack Development & Data Analysis  
-🇧🇷 Sao Paulo - SP - Brazil
+🇧🇷 Sao Paulo, SP - Brazil
 
 ---
 
