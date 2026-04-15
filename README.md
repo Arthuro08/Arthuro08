@@ -16,7 +16,7 @@ I enjoy teamwork, challenges, and continuous learning.
 ## 📈 My Stats  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Arthuro08&theme=transparent&hide_border=true)](https://git.io/streak-stats)  
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arthuro08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arthuro08&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
