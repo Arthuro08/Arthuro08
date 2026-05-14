@@ -56,8 +56,7 @@ I enjoy teamwork, challenges, and continuous learning.
 📃 Bradesco Foundation - "Modeling Data" Course Certificate  
 🎖️ Cisco Badge - Operational Systems Basics  
 🎖️ Cisco Badge - Create Digital Content, Communicate and Collaborate Digital Online  
-
-![Cisco Networking Academy Badge](https://images.credly.com/size/340x340/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png)
+🎖️ TIDWIT Badge - AWS Cloud Fundamentals
 ---
 
 ## 📫 Contact
