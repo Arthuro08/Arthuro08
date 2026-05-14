@@ -57,6 +57,7 @@ I enjoy teamwork, challenges, and continuous learning.
 🎖️ Cisco Badge - Operational Systems Basics  
 🎖️ Cisco Badge - Create Digital Content, Communicate and Collaborate Digital Online  
 🎖️ TIDWIT Badge - AWS Cloud Fundamentals
+
 ---
 
 ## 📫 Contact
