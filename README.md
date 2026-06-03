@@ -1,8 +1,8 @@
 # 🙂 Hi, I'm Arthur
 
 🎓 Information Systems undergraduate student  
-💻 Technical background in Systems Development  
-🚀 Fullstack Development & Data Analysis  
+💻 Technical degree in Systems Development  
+🚀 Full-Stack Development & Data Analysis  
 🇧🇷 Sao Paulo, SP - Brazil
 
 ---
