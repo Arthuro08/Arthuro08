@@ -2,7 +2,7 @@
 
 🎓 Information Systems undergraduate student  
 💻 Technical degree in Systems Development  
-🚀 Full-Stack Development & Analytics Engineering
+🚀 Full-Stack Development & Analytics Engineering  
 🇧🇷 Sao Paulo, SP - Brazil
 
 ---
