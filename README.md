@@ -9,8 +9,8 @@
 
 ## 🧠 About Me
 
-19 years. Focused on building practical, real-world solutions.
-I enjoy teamwork, challenges, and continuous learning.
+19 years. Focused on building practical, real-world solutions.  
+Snoopy Lover
 
 ---  
 
