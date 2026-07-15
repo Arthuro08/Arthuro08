@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 19 years. Focused on building practical, real-world solutions.  
-Snoopy Lover
+Snoopy
 
 ---  
 
