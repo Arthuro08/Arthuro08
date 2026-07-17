@@ -1,4 +1,4 @@
-# 🙂 Hi, I'm Arthur
+# I'm Arthur
 
 🎓 Information Systems undergraduate student  
 💻 Technical degree in Systems Development  
