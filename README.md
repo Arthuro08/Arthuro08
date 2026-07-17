@@ -14,7 +14,7 @@ Snoopy
 
 ---  
 
-## 📈 My Stats  
+## 📈 Stats  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Arthuro08&theme=transparent&hide_border=true&ring=f56642&fire=f56642&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=f56642&dates=f56642&stroke=c9d1d9&sideLabels=c9d1d9)](https://git.io/streak-stats)  
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arthuro08&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&layout=compact)
