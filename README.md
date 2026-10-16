@@ -2,7 +2,7 @@
 
 🎓 Information Systems undergraduate student  
 💻 Technical degree in Systems Development  
-🚀 DevOps & Analytics Engineering  
+🚀 Analytics Engineering & BI. 
 🇧🇷 Sao Paulo, SP - Brazil
 
 ---
